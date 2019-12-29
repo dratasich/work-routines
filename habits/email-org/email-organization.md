@@ -46,30 +46,7 @@ Preparation
 Procedure - Handle incoming Emails
 ----------------------------------
 
-1. Is this email useful?
-
-   No -> DELETE!
-
-   Yes -> next step
-
-1. Does this email needs action?
-
-   No -> ARCHIVE, i.e., move to a_PROCESSED
-
-   Yes -> next step
-
-1. Can I do this under 2 minutes?
-
-   Yes -> DO IT NOW!
-   - reply
-   - or delegate (move to a_WAITING)
-   - or do the required task
-   - and finally archive.
-
-   No -> MOVE to a_ACTION
-   - set a reminder
-   - or check this folder periodically
-   - and finally process and archive it
+![workflow of an incoming email](workflow-incoming-email.svg)
 
 The main challenge is to visit your a_ACTION and a_WAITING emails
 periodically to process them.
