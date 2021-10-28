@@ -9,6 +9,7 @@ Proceed as follows, and keep the time constraints
 (here 60min, but you can increase, e.g., for the first meeting).
 
 1. Preparation: Create a board. Get some post-its.
+   Or for online meetings: [miro](https://miro.com/) and [reetro.io](https://reetro.io/).
 
    ![board](daki.svg)
 
@@ -50,6 +51,8 @@ References
 
 - [What is a Sprint Retrospective?][1]
 - [DAKI - drop, add, keep, improve][2]
+- [The 5 Best Free Online Retrospective Tools for Your Team][3]
 
 [1]: https://www.scrum.org/resources/what-is-a-sprint-retrospective
 [2]: http://www.funretrospectives.com/daki-drop-add-keep-improve/
+[3]: https://medium.com/getproductpeople/the-5-best-free-online-retrospective-tools-for-your-team-5cbb0b47f9c9
